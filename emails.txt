@@ -1,0 +1,3 @@
+cats@gmail.com, Gypsy Cat
+dogs@gmail.com, Lucky Dog
+birds@gmail.com, Pretty Bird
